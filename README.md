@@ -25,6 +25,13 @@ My ToolBox for Papers
   - [Tensorflow Code_1](https://github.com/chenyilun95/tf-cpn)
   - [Tensorflow Code_2](https://github.com/megvii-detection/tf-cpn)
 
+- **Detect-and-Track**
+  - *Detect-and-Track: Efficient Pose Estimation in Videos*
+  - [paper](https://arxiv.org/abs/1712.09184)
+  - [GitHub](https://github.com/facebookresearch/DetectAndTrack/)
+  - [blog](https://rohitgirdhar.github.io/DetectAndTrack/)
+
+
 <!-- - ****
   - **
   - [paper]()
