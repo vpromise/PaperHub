@@ -1,10 +1,5 @@
-# PaperHub
-My ToolBox for Papers
-
-
-
-## [HPE CVPR 2019]()
 *here is the papers on human pose estimation in CVPR 2019, all the papers are available at [CVPR 2019 open access](http://openaccess.thecvf.com/CVPR2019.py)*
+
 ### 2D Human Pose Estimation
 - [Does Learning Specific Features for Related Parts Help Human Pose Estimation?](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_Does_Learning_Specific_Features_for_Related_Parts_Help_Human_Pose_CVPR_2019_paper.pdf)
 - [Fast Human Pose Estimation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Fast_Human_Pose_Estimation_CVPR_2019_paper.pdf)
@@ -22,4 +17,3 @@ My ToolBox for Papers
 - [Generating Multiple Hypotheses for 3D Human Pose Estimation With Mixture Density Network](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Generating_Multiple_Hypotheses_for_3D_Human_Pose_Estimation_With_Mixture_CVPR_2019_paper.pdf)
 - [Weakly-Supervised Discovery of Geometry-Aware Representation for 3D Human Pose Estimation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Weakly-Supervised_Discovery_of_Geometry-Aware_Representation_for_3D_Human_Pose_Estimation_CVPR_2019_paper.pdf)
 - [In the Wild Human Pose Estimation Using Explicit 2D Features and Intermediate 3D Representations](http://openaccess.thecvf.com/content_CVPR_2019/papers/Habibie_In_the_Wild_Human_Pose_Estimation_Using_Explicit_2D_Features_CVPR_2019_paper.pdf)
-- 
