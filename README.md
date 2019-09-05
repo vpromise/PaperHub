@@ -1,6 +1,37 @@
 # PaperHub
 My ToolBox for Papers
 
+- [PaperHub](#paperhub)
+  - [SOTA HPE](#sota-hpe)
+  - [HPE CVPR 2019](#hpe-cvpr-2019)
+    - [2D Human Pose Estimation](#2d-human-pose-estimation)
+    - [3D Human Pose Estimation](#3d-human-pose-estimation)
+
+## SOTA HPE
+
+- **Stacked Hourglass Network**
+  - [Stacked Hourglass Networks for Human Pose Estimation](https://arxiv.org/abs/1603.06937)
+  - [Pytorch Code](https://github.com/Naman-ntc/Pytorch-Human-Pose-Estimation)
+  - [Tensorflow Code](https://github.com/wbenbihi/hourglasstensorlfow)
+- **Convolutional Pose Machine**
+  - [Convolutional Pose Machines](https://arxiv.org/abs/1602.00134)
+  - [Pytorch Code](https://github.com/JindongJiang/WeightedLoss_Convolutional_Pose_Machines_PyTorch)
+  - [Tensorflow Code_1](https://github.com/timctho/convolutional-pose-machines-tensorflow)
+  - [Tensorflow Code_2](https://github.com/shihenw/convolutional-pose-machines-release)
+- **Cascaded Pyramid Network**
+  - [Cascaded Pyramid Network for Multi-Person Pose Estimation](https://arxiv.org/abs/1711.07319)
+  - [Pytorch Code](https://github.com/GengDavid/pytorch-cpn)
+  - [Tensorflow Code_1](https://github.com/chenyilun95/tf-cpn)
+  - [Tensorflow Code_2](https://github.com/megvii-detection/tf-cpn)
+- **Detect-and-Track**
+  - [Detect-and-Track: Efficient Pose Estimation in Videos](https://arxiv.org/abs/1712.09184)
+  - [GitHub](https://github.com/facebookresearch/DetectAndTrack/)
+  - [blog](https://rohitgirdhar.github.io/DetectAndTrack/)
+- **Realtime Multi-Person Pose Estimation**
+  - [Realtime Multi-Person Pose Estimation](https://arxiv.org/abs/1611.08050)
+
+    |[GitHub](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)|[Pytorch_1](https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation)|[Pytorch_2](https://github.com/DavexPro/pytorch-pose-estimation)|[Pytorch_3](https://github.com/MVIG-SJTU/AlphaPose/tree/pytorch)|
+    |:---:|:---:|:---:|:---:|
 
 ## [HPE CVPR 2019](https://github.com/vpromise/PaperHub/blob/master/archive/HPE%20CVPR%202019.md)
 *here is the papers list on human pose estimation in CVPR 2019, all the papers are available at [CVPR 2019 open access](http://openaccess.thecvf.com/CVPR2019.py).  For more information please go to [HPE CVPR 2019](https://github.com/vpromise/PaperHub/blob/master/archive/HPE%20CVPR%202019.md)*
