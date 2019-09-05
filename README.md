@@ -22,4 +22,3 @@ My ToolBox for Papers
 - [Generating Multiple Hypotheses for 3D Human Pose Estimation With Mixture Density Network](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Generating_Multiple_Hypotheses_for_3D_Human_Pose_Estimation_With_Mixture_CVPR_2019_paper.pdf)
 - [Weakly-Supervised Discovery of Geometry-Aware Representation for 3D Human Pose Estimation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Weakly-Supervised_Discovery_of_Geometry-Aware_Representation_for_3D_Human_Pose_Estimation_CVPR_2019_paper.pdf)
 - [In the Wild Human Pose Estimation Using Explicit 2D Features and Intermediate 3D Representations](http://openaccess.thecvf.com/content_CVPR_2019/papers/Habibie_In_the_Wild_Human_Pose_Estimation_Using_Explicit_2D_Features_CVPR_2019_paper.pdf)
-- 
