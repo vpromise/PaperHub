@@ -33,7 +33,7 @@ My ToolBox for Papers
     |[GitHub](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)|[Pytorch_1](https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation)|[Pytorch_2](https://github.com/DavexPro/pytorch-pose-estimation)|[Pytorch_3](https://github.com/MVIG-SJTU/AlphaPose/tree/pytorch)|
     |:---:|:---:|:---:|:---:|
 
-## [HPE CVPR 2019](https://github.com/vpromise/PaperHub/blob/master/archive/HPE%20CVPR%202019.md)
+## [HPE CVPR 2019](./archive/HPE%20CVPR%202019.md)
 *here is the papers list on human pose estimation in CVPR 2019, all the papers are available at [CVPR 2019 open access](http://openaccess.thecvf.com/CVPR2019.py).  For more information please go to [HPE CVPR 2019](https://github.com/vpromise/PaperHub/blob/master/archive/HPE%20CVPR%202019.md)*
 ### 2D Human Pose Estimation
 
