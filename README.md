@@ -29,14 +29,14 @@ My ToolBox for Papers
   - [blog](https://rohitgirdhar.github.io/DetectAndTrack/)
 - **Realtime Multi-Person Pose Estimation**
   - [Realtime Multi-Person Pose Estimation](https://arxiv.org/abs/1611.08050)
+  - [GitHub](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
+  - [Pytorch_1](https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation)
+  - [Pytorch_2](https://github.com/DavexPro/pytorch-pose-estimation)
+  - [Pytorch_3](https://github.com/MVIG-SJTU/AlphaPose/tree/pytorch)
 
-    |[GitHub](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)|[Pytorch_1](https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation)|[Pytorch_2](https://github.com/DavexPro/pytorch-pose-estimation)|[Pytorch_3](https://github.com/MVIG-SJTU/AlphaPose/tree/pytorch)|
-    |:---:|:---:|:---:|:---:|
-
-## [HPE CVPR 2019](./archive/HPE%20CVPR%202019.md)
-*here is the papers list on human pose estimation in CVPR 2019, all the papers are available at [CVPR 2019 open access](http://openaccess.thecvf.com/CVPR2019.py).  For more information please go to [HPE CVPR 2019](https://github.com/vpromise/PaperHub/blob/master/archive/HPE%20CVPR%202019.md)*
+## [HPE CVPR 2019](./archive/HPE_CVPR_2019.md)
+*here is the papers list on human pose estimation in CVPR 2019, all the papers are available at [CVPR 2019 open access](http://openaccess.thecvf.com/CVPR2019.py).  For more information please go to [HPE CVPR 2019](./archive/HPE_CVPR_2019.md)*
 ### 2D Human Pose Estimation
-
 - [Does Learning Specific Features for Related Parts Help Human Pose Estimation?](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_Does_Learning_Specific_Features_for_Related_Parts_Help_Human_Pose_CVPR_2019_paper.pdf)
 - [Fast Human Pose Estimation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Fast_Human_Pose_Estimation_CVPR_2019_paper.pdf)
 - [Deep High-Resolution Representation Learning for Human Pose Estimation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Deep_High-Resolution_Representation_Learning_for_Human_Pose_Estimation_CVPR_2019_paper.pdf)

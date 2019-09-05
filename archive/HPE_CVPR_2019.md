@@ -31,7 +31,7 @@
 - [deep-high-resolution-net.pytorch](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)
 
 ## Paper Reading Share
-*All the paper reading is available at [Paper Reading: HPE CVPR 2019](https://github.com/vpromise/PaperHub/blob/master/archive/Paper%20Reading:%20HPE%20CVPR%202019.md)*
+*All the paper reading is available at [Paper Reading: HPE CVPR 2019](./Paper_Reading:HPE_CVPR_2019.md)*
 - [Fast Human Pose Estimation](https://vpromise.github.io/paper/23-FPD/)
 - [Multi-Person Pose Estimation with Enhanced Channel-wise and Spatial Information](https://vpromise.github.io/paper/24-Multi-HPE/)
 - [Deep High-Resolution Representation Learning for Human Pose Estimation](https://vpromise.github.io/paper/25-HRNet/)
