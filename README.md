@@ -8,21 +8,25 @@ My ToolBox for Papers
     - [3D Human Pose Estimation](#3d-human-pose-estimation)
 
 ## SOTA HPE
-
+- **Pytorch Pose**
+  - [A PyTorch toolkit for 2D Human Pose Estimation](https://github.com/bearpaw/pytorch-pose)
 - **Stacked Hourglass Network**
   - [Stacked Hourglass Networks for Human Pose Estimation](https://arxiv.org/abs/1603.06937)
   - [Pytorch Code](https://github.com/Naman-ntc/Pytorch-Human-Pose-Estimation)
   - [Tensorflow Code](https://github.com/wbenbihi/hourglasstensorlfow)
-- **Convolutional Pose Machine**
-  - [Convolutional Pose Machines](https://arxiv.org/abs/1602.00134)
-  - [Pytorch Code](https://github.com/JindongJiang/WeightedLoss_Convolutional_Pose_Machines_PyTorch)
-  - [Tensorflow Code_1](https://github.com/timctho/convolutional-pose-machines-tensorflow)
-  - [Tensorflow Code_2](https://github.com/shihenw/convolutional-pose-machines-release)
+- **Simple Baselines**
+  - [Simple Baselines for Human Pose Estimation and Tracking](https://arxiv.org/abs/1804.06208)
+  - [GitHub](https://github.com/microsoft/human-pose-estimation.pytorch)
 - **Cascaded Pyramid Network**
   - [Cascaded Pyramid Network for Multi-Person Pose Estimation](https://arxiv.org/abs/1711.07319)
   - [Pytorch Code](https://github.com/GengDavid/pytorch-cpn)
   - [Tensorflow Code_1](https://github.com/chenyilun95/tf-cpn)
   - [Tensorflow Code_2](https://github.com/megvii-detection/tf-cpn)
+- **Convolutional Pose Machine**
+  - [Convolutional Pose Machines](https://arxiv.org/abs/1602.00134)
+  - [Pytorch Code](https://github.com/JindongJiang/WeightedLoss_Convolutional_Pose_Machines_PyTorch)
+  - [Tensorflow Code_1](https://github.com/timctho/convolutional-pose-machines-tensorflow)
+  - [Tensorflow Code_2](https://github.com/shihenw/convolutional-pose-machines-release)
 - **Detect-and-Track**
   - [Detect-and-Track: Efficient Pose Estimation in Videos](https://arxiv.org/abs/1712.09184)
   - [GitHub](https://github.com/facebookresearch/DetectAndTrack/)
