@@ -28,6 +28,12 @@
 - [In the Wild Human Pose Estimation Using Explicit 2D Features and Intermediate 3D Representations](http://openaccess.thecvf.com/content_CVPR_2019/papers/Habibie_In_the_Wild_Human_Pose_Estimation_Using_Explicit_2D_Features_CVPR_2019_paper.pdf)
 
 ## Paper with Code
-
+- [deep-high-resolution-net.pytorch](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)
 
 ## Paper Reading Share
+*All the paper reading is available at [Paper Reading: HPE CVPR 2019](https://github.com/vpromise/PaperHub/blob/master/archive/Paper%20Reading:%20HPE%20CVPR%202019.md)*
+- [Fast Human Pose Estimation](https://vpromise.github.io/paper/23-FPD/)
+- [Multi-Person Pose Estimation with Enhanced Channel-wise and Spatial Information](https://vpromise.github.io/paper/24-Multi-HPE/)
+- [Deep High-Resolution Representation Learning for Human Pose Estimation](https://vpromise.github.io/paper/25-HRNet/)
+- [Fast and Robust Multi-Person 3D Pose Estimation from Multiple Views](https://vpromise.github.io/paper/26-3D-HPE/)
+- [Does Learning Specific Features for Related Parts Help Human Pose Estimation?](https://vpromise.github.io/paper/27-Related-Parts-in-HPE/)

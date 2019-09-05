@@ -2,10 +2,10 @@
 My ToolBox for Papers
 
 
-
 ## [HPE CVPR 2019](https://github.com/vpromise/PaperHub/blob/master/archive/HPE%20CVPR%202019.md)
-*here is the papers on human pose estimation in CVPR 2019, all the papers are available at [CVPR 2019 open access](http://openaccess.thecvf.com/CVPR2019.py)*
+*here is the papers list on human pose estimation in CVPR 2019, all the papers are available at [CVPR 2019 open access](http://openaccess.thecvf.com/CVPR2019.py).  For more information please go to [HPE CVPR 2019](https://github.com/vpromise/PaperHub/blob/master/archive/HPE%20CVPR%202019.md)*
 ### 2D Human Pose Estimation
+
 - [Does Learning Specific Features for Related Parts Help Human Pose Estimation?](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_Does_Learning_Specific_Features_for_Related_Parts_Help_Human_Pose_CVPR_2019_paper.pdf)
 - [Fast Human Pose Estimation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Fast_Human_Pose_Estimation_CVPR_2019_paper.pdf)
 - [Deep High-Resolution Representation Learning for Human Pose Estimation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Deep_High-Resolution_Representation_Learning_for_Human_Pose_Estimation_CVPR_2019_paper.pdf)
