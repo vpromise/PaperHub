@@ -6,6 +6,7 @@ My ToolBox for Papers
   - [HPE CVPR 2019](#hpe-cvpr-2019)
     - [2D Human Pose Estimation](#2d-human-pose-estimation)
     - [3D Human Pose Estimation](#3d-human-pose-estimation)
+  - [HPE ICCV 2019](#hpe-iccv-2019)
 
 ## SOTA HPE
 - **Pytorch Pose**
@@ -57,3 +58,35 @@ My ToolBox for Papers
 - [Generating Multiple Hypotheses for 3D Human Pose Estimation With Mixture Density Network](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Generating_Multiple_Hypotheses_for_3D_Human_Pose_Estimation_With_Mixture_CVPR_2019_paper.pdf)
 - [Weakly-Supervised Discovery of Geometry-Aware Representation for 3D Human Pose Estimation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Weakly-Supervised_Discovery_of_Geometry-Aware_Representation_for_3D_Human_Pose_Estimation_CVPR_2019_paper.pdf)
 - [In the Wild Human Pose Estimation Using Explicit 2D Features and Intermediate 3D Representations](http://openaccess.thecvf.com/content_CVPR_2019/papers/Habibie_In_the_Wild_Human_Pose_Estimation_Using_Explicit_2D_Features_CVPR_2019_paper.pdf)
+
+## HPE ICCV 2019
+*here is the papers list on human pose estimation in ICCV 2019, all the papers are available at [ICCV 2019 open access](http://openaccess.thecvf.com/ICCV2019.py).  You can find some papers reading share on [Paper Reading: HPE ICCV 2019](./archive/Paper_Reading:HPE_ICCV_2019.md)*
+- [Distilling Knowledge From a Deep Pose Regressor Network](http://openaccess.thecvf.com/content_ICCV_2019/html/Saputra_Distilling_Knowledge_From_a_Deep_Pose_Regressor_Network_ICCV_2019_paper.html)
+- [Occlusion-Aware Networks for 3D Human Pose Estimation in Video](http://openaccess.thecvf.com/content_ICCV_2019/html/Cheng_Occlusion-Aware_Networks_for_3D_Human_Pose_Estimation_in_Video_ICCV_2019_paper.html)
+- [Distill Knowledge From NRSfM for Weakly Supervised 3D Pose Learning](http://openaccess.thecvf.com/content_ICCV_2019/html/Wang_Distill_Knowledge_From_NRSfM_for_Weakly_Supervised_3D_Pose_Learning_ICCV_2019_paper.html)
+- [A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation From a Single Depth Image](http://openaccess.thecvf.com/content_ICCV_2019/html/Xiong_A2J_Anchor-to-Joint_Regression_Network_for_3D_Articulated_Pose_Estimation_From_ICCV_2019_paper.html)
+- [TexturePose: Supervising Human Mesh Estimation With Texture Consistency](http://openaccess.thecvf.com/content_ICCV_2019/html/Pavlakos_TexturePose_Supervising_Human_Mesh_Estimation_With_Texture_Consistency_ICCV_2019_paper.html)
+- [Camera Distance-Aware Top-Down Approach for 3D Multi-Person Pose Estimation From a Single RGB Image](http://openaccess.thecvf.com/content_ICCV_2019/html/Moon_Camera_Distance-Aware_Top-Down_Approach_for_3D_Multi-Person_Pose_Estimation_From_ICCV_2019_paper.html)
+- [Ego-Pose Estimation and Forecasting As Real-Time PD Control](http://openaccess.thecvf.com/content_ICCV_2019/html/Yuan_Ego-Pose_Estimation_and_Forecasting_As_Real-Time_PD_Control_ICCV_2019_paper.html)
+- [On Boosting Single-Frame 3D Human Pose Estimation via Monocular Videos](http://openaccess.thecvf.com/content_ICCV_2019/html/Li_On_Boosting_Single-Frame_3D_Human_Pose_Estimation_via_Monocular_Videos_ICCV_2019_paper.html)
+- [GP2C: Geometric Projection Parameter Consensus for Joint 3D Pose and Focal Length Estimation in the Wild](http://openaccess.thecvf.com/content_ICCV_2019/html/Grabner_GP2C_Geometric_Projection_Parameter_Consensus_for_Joint_3D_Pose_and_ICCV_2019_paper.html)
+- [Learning to Reconstruct 3D Human Pose and Shape via Model-Fitting in the Loop](http://openaccess.thecvf.com/content_ICCV_2019/html/Kolotouros_Learning_to_Reconstruct_3D_Human_Pose_and_Shape_via_Model-Fitting_ICCV_2019_paper.html)
+- [Optimizing Network Structure for 3D Human Pose Estimation](http://openaccess.thecvf.com/content_ICCV_2019/html/Ci_Optimizing_Network_Structure_for_3D_Human_Pose_Estimation_ICCV_2019_paper.html)
+- [Exploiting Spatial-Temporal Relationships for 3D Pose Estimation via Graph Convolutional Networks](http://openaccess.thecvf.com/content_ICCV_2019/html/Cai_Exploiting_Spatial-Temporal_Relationships_for_3D_Pose_Estimation_via_Graph_Convolutional_ICCV_2019_paper.html)
+- [Resolving 3D Human Pose Ambiguities With 3D Scene Constraints](http://openaccess.thecvf.com/content_ICCV_2019/html/Hassan_Resolving_3D_Human_Pose_Ambiguities_With_3D_Scene_Constraints_ICCV_2019_paper.html)
+- [Monocular 3D Human Pose Estimation by Generation and Ordinal Ranking](http://openaccess.thecvf.com/content_ICCV_2019/html/Sharma_Monocular_3D_Human_Pose_Estimation_by_Generation_and_Ordinal_Ranking_ICCV_2019_paper.html)
+- [HEMlets Pose: Learning Part-Centric Heatmap Triplets for Accurate 3D Human Pose Estimation](http://openaccess.thecvf.com/content_ICCV_2019/html/Zhou_HEMlets_Pose_Learning_Part-Centric_Heatmap_Triplets_for_Accurate_3D_Human_ICCV_2019_paper.html)
+- [Cross View Fusion for 3D Human Pose Estimation](http://openaccess.thecvf.com/content_ICCV_2019/html/Qiu_Cross_View_Fusion_for_3D_Human_Pose_Estimation_ICCV_2019_paper.html)
+- [Shape-Aware Human Pose and Shape Reconstruction Using Multi-View Images](http://openaccess.thecvf.com/content_ICCV_2019/html/Liang_Shape-Aware_Human_Pose_and_Shape_Reconstruction_Using_Multi-View_Images_ICCV_2019_paper.html)
+- [Single-Stage Multi-Person Pose Machines](http://openaccess.thecvf.com/content_ICCV_2019/html/Nie_Single-Stage_Multi-Person_Pose_Machines_ICCV_2019_paper.html)
+- [Single-Network Whole-Body Pose Estimation](http://openaccess.thecvf.com/content_ICCV_2019/html/Hidalgo_Single-Network_Whole-Body_Pose_Estimation_ICCV_2019_paper.html)
+- [Imitation Learning for Human Pose Prediction](http://openaccess.thecvf.com/content_ICCV_2019/html/Wang_Imitation_Learning_for_Human_Pose_Prediction_ICCV_2019_paper.html)
+- [C3DPO: Canonical 3D Pose Networks for Non-Rigid Structure From Motion](http://openaccess.thecvf.com/content_ICCV_2019/html/Novotny_C3DPO_Canonical_3D_Pose_Networks_for_Non-Rigid_Structure_From_Motion_ICCV_2019_paper.html)
+- [Learnable Triangulation of Human Pose](http://openaccess.thecvf.com/content_ICCV_2019/html/Iskakov_Learnable_Triangulation_of_Human_Pose_ICCV_2019_paper.html)
+- [xR-EgoPose: Egocentric 3D Human Pose From an HMD Camera](http://openaccess.thecvf.com/content_ICCV_2019/html/Tome_xR-EgoPose_Egocentric_3D_Human_Pose_From_an_HMD_Camera_ICCV_2019_paper.html)
+- [DenseRaC: Joint 3D Pose and Shape Estimation by Dense Render-and-Compare](http://openaccess.thecvf.com/content_ICCV_2019/html/Xu_DenseRaC_Joint_3D_Pose_and_Shape_Estimation_by_Dense_Render-and-Compare_ICCV_2019_paper.html)
+- [Not All Parts Are Created Equal: 3D Pose Estimation by Modeling Bi-Directional Dependencies of Body Parts](http://openaccess.thecvf.com/content_ICCV_2019/html/Wang_Not_All_Parts_Are_Created_Equal_3D_Pose_Estimation_by_ICCV_2019_paper.html)
+- [Conservative Wasserstein Training for Pose Estimation](http://openaccess.thecvf.com/content_ICCV_2019/html/Liu_Conservative_Wasserstein_Training_for_Pose_Estimation_ICCV_2019_paper.html)
+- [Holistic++ Scene Understanding: Single-View 3D Holistic Scene Parsing and Human Pose Estimation With Human-Object Interaction and Physical Commonsense](http://openaccess.thecvf.com/content_ICCV_2019/html/Chen_Holistic_Scene_Understanding_Single-View_3D_Holistic_Scene_Parsing_and_Human_ICCV_2019_paper.html)
+- [Pose-Aware Multi-Level Feature Network for Human Object Interaction Detection](http://openaccess.thecvf.com/content_ICCV_2019/html/Wan_Pose-Aware_Multi-Level_Feature_Network_for_Human_Object_Interaction_Detection_ICCV_2019_paper.html)
+- [Cross-Domain Adaptation for Animal Pose Estimation](http://openaccess.thecvf.com/content_ICCV_2019/html/Cao_Cross-Domain_Adaptation_for_Animal_Pose_Estimation_ICCV_2019_paper.html)
