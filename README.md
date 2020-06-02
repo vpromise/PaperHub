@@ -7,6 +7,7 @@ My ToolBox for Papers
     - [2D Human Pose Estimation](#2d-human-pose-estimation)
     - [3D Human Pose Estimation](#3d-human-pose-estimation)
   - [HPE ICCV 2019](#hpe-iccv-2019)
+  - [HPE CVPR 2020](#hpe-cvpr-2020)
 
 ## SOTA HPE
 - **Pytorch Pose**
@@ -90,3 +91,17 @@ My ToolBox for Papers
 - [Holistic++ Scene Understanding: Single-View 3D Holistic Scene Parsing and Human Pose Estimation With Human-Object Interaction and Physical Commonsense](http://openaccess.thecvf.com/content_ICCV_2019/html/Chen_Holistic_Scene_Understanding_Single-View_3D_Holistic_Scene_Parsing_and_Human_ICCV_2019_paper.html)
 - [Pose-Aware Multi-Level Feature Network for Human Object Interaction Detection](http://openaccess.thecvf.com/content_ICCV_2019/html/Wan_Pose-Aware_Multi-Level_Feature_Network_for_Human_Object_Interaction_Detection_ICCV_2019_paper.html)
 - [Cross-Domain Adaptation for Animal Pose Estimation](http://openaccess.thecvf.com/content_ICCV_2019/html/Cao_Cross-Domain_Adaptation_for_Animal_Pose_Estimation_ICCV_2019_paper.html)
+
+## HPE CVPR 2020
+- [VIBE: Video Inference for Human Body Pose and Shape Estimation](https://arxiv.org/abs/1912.05656) [**code**](https://github.com/mkocabas/VIBE)
+- [Distribution-Aware Coordinate Representation for Human Pose Estimation](https://arxiv.org/abs/1910.06278) [**code**](https://github.com/ilovepose/DarkPose)
+- [4D Association Graph for Realtime Multi-person Motion Capture Using Multiple Video Cameras](https://arxiv.org/abs/2002.12625)
+- [Optimal least-squares solution to the hand-eye calibration problem](https://arxiv.org/abs/2002.10838)
+- [D3VO: Deep Depth, Deep Pose and Deep Uncertainty for Monocular Visual Odometry](https://arxiv.org/abs/2003.01060)
+- [Multi-Modal Domain Adaptation for Fine-Grained Action Recognition](https://arxiv.org/abs/2001.09691)
+- [Distribution Aware Coordinate Representation for Human Pose Estimation](https://arxiv.org/abs/1910.06278)
+- [The Devil is in the Details: Delving into Unbiased Data Processing for Human Pose Estimation](https://arxiv.org/abs/1911.07524)
+- [PVN3D: A Deep Point-wise 3D Keypoints Voting Network for 6DoF Pose Estimation](https://arxiv.org/abs/1911.04231)
+- [Action Segmentation with Joint Self-Supervised Temporal Domain Adaptation](https://arxiv.org/abs/2003.02824)
+- [G2L-Net: Global to Local Network for Real-time 6D Pose Estimation with Embedding Vector Features](https://arxiv.org/abs/2003.11089)
+- [Deep Image Spatial Transformation for Person Image Generation](https://arxiv.org/abs/2003.00696) [**code**](https://github.com/RenYurui/Global-Flow-Local-Attention)
