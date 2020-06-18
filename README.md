@@ -93,7 +93,7 @@ My ToolBox for Papers
 - [Cross-Domain Adaptation for Animal Pose Estimation](http://openaccess.thecvf.com/content_ICCV_2019/html/Cao_Cross-Domain_Adaptation_for_Animal_Pose_Estimation_ICCV_2019_paper.html)
 
 ## HPE CVPR 2020
-*here is the papers list on human pose estimation in CVPR 2020, all the papers are available at [CVPR 2020 open access](http://openaccess.thecvf.com/CVPR2019.py).*
+*here is the papers list on human pose estimation in CVPR 2020, all the papers are available at [CVPR 2020 open access](http://openaccess.thecvf.com/CVPR2020.py).*
 - [VIBE: Video Inference for Human Body Pose and Shape Estimation](https://arxiv.org/abs/1912.05656) [**code**](https://github.com/mkocabas/VIBE)
 - [Distribution-Aware Coordinate Representation for Human Pose Estimation](https://arxiv.org/abs/1910.06278) [**code**](https://github.com/ilovepose/DarkPose)
 - [4D Association Graph for Realtime Multi-person Motion Capture Using Multiple Video Cameras](https://arxiv.org/abs/2002.12625)
