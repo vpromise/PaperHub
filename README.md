@@ -134,6 +134,9 @@ My ToolBox for Papers
 - [You2Me: Inferring Body Pose in Egocentric Video via First and Second Person Interactions](http://openaccess.thecvf.com/content_CVPR_2020/html/Ng_You2Me_Inferring_Body_Pose_in_Egocentric_Video_via_First_and_CVPR_2020_paper.html)
 - [Graph Embedded Pose Clustering for Anomaly Detection](http://openaccess.thecvf.com/content_CVPR_2020/html/Markovitz_Graph_Embedded_Pose_Clustering_for_Anomaly_Detection_CVPR_2020_paper.html)
 - [Pose-Guided Visible Part Matching for Occluded Person ReID](http://openaccess.thecvf.com/content_CVPR_2020/html/Gao_Pose-Guided_Visible_Part_Matching_for_Occluded_Person_ReID_CVPR_2020_paper.html)
+  ### gait
+- [Gait Recognition via Semi-supervised Disentangled Representation Learning to Identity and Covariate Features](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Gait_Recognition_via_Semi-supervised_Disentangled_Representation_Learning_to_Identity_and_CVPR_2020_paper.html)
+- [GaitPart: Temporal Part-Based Model for Gait Recognition](https://openaccess.thecvf.com/content_CVPR_2020/html/Fan_GaitPart_Temporal_Part-Based_Model_for_Gait_Recognition_CVPR_2020_paper.html)
 
 
 ---
