@@ -1,6 +1,8 @@
 # PaperHub
 My ToolBox for Papers
 
+New papers page on `Notion` [Paper Daily Notion](https://www.notion.so/vpromise/Paper-Daily-c347e848fae04889943844255d0e892f)
+
 - [PaperHub](#paperhub)
   - [SOTA HPE](#sota-hpe)
   - [HPE CVPR 2019](#hpe-cvpr-2019)
